@@ -1,10 +1,6 @@
 
 <h1 align="center", margin="2%">                     📚   Library Management System 📚</h1>
 
-[![GitHub license](https://img.shields.io/badge/license-MIT2.0-blue.svg)][M] ![GitHub license](https://img.shields.io/badge/license-SQL2.0-green.svg)
-
-[M]:https://opensource.org/licenses/MIT
-
 <h1>Description</h1>
 
     To build a management system that helps in handling the primary functions of libraries that involves 
@@ -79,12 +75,12 @@
     4️⃣ Click member list and click barrow book icon under your name ✔
     5️⃣ After reading book click return book icon under your name ✔
 
-<h1> Company name: TickTech IT Solutions <br>
+<h3> Company name: TickTech IT Solutions <br>
 Team Id: WD1404 <br>
 Domain of Project: Web Development <br>
-</h1>
+</h3>
 
-<h1> #TIS #ticktechitsolutions </h1>
+<h3> #TIS #ticktechitsolutions </h3>
 
 
    
