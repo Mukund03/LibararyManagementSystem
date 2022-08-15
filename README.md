@@ -15,17 +15,6 @@
   
 * [Usage](#usage)
 
-* [Features](#Features)
-
-* [License](#license)
-
-* [Participants](#Participants)
-
-* [Deployed](#Deployed)
-
-* [Questions](#Questions)
-
-
 ## Demo:
 
 <p align="center">
